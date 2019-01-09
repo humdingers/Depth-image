@@ -44,7 +44,7 @@ Additional fields:
         "score": 3
     }
 ```
-![Maxing out a 200mbit pipe](max-out-200mbit.png)
+![/depth_images/Maxing out a 200mbit pipe](max-out-200mbit.png)
 
 ### stupidstuff.json
 Scraped from [stupidstuff.org](stupidstuff.org/jokes/).
