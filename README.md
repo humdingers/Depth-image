@@ -20,6 +20,8 @@ ground-truth depth maps | 6000 | 1.11M tokens
 The infrared images, visible light images and depth maps are croped to the resolution of 256×512.
 we classify the depth map into 32 levels in the logarithmic space as training labels.
 
+## Example
+
 ### infrared images
 
 ![/depth_images/Maxing out a 200mbit pipe](max-out-200mbit.png)
