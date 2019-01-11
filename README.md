@@ -6,7 +6,7 @@ If this dataset is provided for research purposes, please see License section be
 
 
 ## Files
-Currently the dataset contains 6000 [infrared images](infrared_images), visible light images and ground-truth depth maps.
+Currently the dataset contains 6000 [infrared images](infrared_images), [visible light images](visible_light_images) and [raw depth maps](depth_maps).
 
 ```
 -----------------------------------------------------
