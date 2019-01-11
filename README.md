@@ -62,7 +62,7 @@ plt.imshow(imageTest[0],cmap='jet')
 
 
 ## License
-I provide this dataset for research purposes and make no ownership claim on any part of it. The question of copyright in the case of jokes is unclear and I recommend not using the dataset commercially.
+I provide this dataset for research purposes.
 
 For removal of copyrighted content, please contact me on GitHub.
 
@@ -72,10 +72,10 @@ If you use this dataset in academic work, please cite as follows:
 
 ```bibtex
 @misc{pungas,
-        title={A dataset of English plaintext jokes.},
-        url={https://github.com/taivop/joke-dataset},
-        author={Pungas, Taivo},
-        year={2017},
+        title={A dataset of Snow-road},
+        url={https://github.com/humdingers/Depth-imaget},
+        author={Yuqi, Li},
+        year={2019},
         publisher = {GitHub},
         journal = {GitHub repository}
 }
