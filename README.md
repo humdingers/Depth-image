@@ -69,7 +69,7 @@ plt.imshow(imageTest[0],cmap='jet')
 
 
 ## License
-I provide this dataset for research purposes.
+I provide this dataset for research purposes, please follow `Citing`.
 
 For removal of copyrighted content, please contact me on GitHub.
 
