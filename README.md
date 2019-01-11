@@ -9,11 +9,11 @@ If this dataset is provided for research purposes, please see License section be
 Currently the dataset contains 6000 [infrared images](infrared_images), [visible light images](visible_light_images) and [raw depth maps](depth_maps).
 
 ```
------------------------------------------------------
-infrared images         | 6000 | 7.40M tokens
-visible light images    | 6000 |  396K tokens
-ground-truth depth maps | 6000 | 1.11M tokens
------------------------------------------------------
+------------------------------------------
+infrared images         | 6000 | 7.40M
+visible light images    | 6000 |  396K
+ground-truth depth maps | 6000 | 1.11M
+------------------------------------------
 ```
 
 ## Format
