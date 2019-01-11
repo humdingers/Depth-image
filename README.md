@@ -35,7 +35,7 @@ We crop the infrared images, visible light images and depth maps to the resoluti
 ![depth_map](/example/depth_map.png)
 
 
-### Usage:
+## Usage:
 
 Start with importing `data()`:
 ```python
