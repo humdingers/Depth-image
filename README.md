@@ -78,7 +78,7 @@ For removal of copyrighted content, please contact me on GitHub.
 If you use this dataset in academic work, please cite as follows:
 
 ```bibtex
-@misc{pungas,
+@misc{Yuqi,
         title={A dataset of Snow-road},
         url={https://github.com/humdingers/Depth-imaget},
         author={Yuqi, Li},
