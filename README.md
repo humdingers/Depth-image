@@ -24,13 +24,13 @@ We crop the infrared images, visible light images and depth maps to the resoluti
 
 ### infrared images
 
-![maxing out a 200mbit](/depth_images/max-out-200mbit.png)
+![infrared_image](/example/infrared_image.png)
 
 ### visible light images
 
 ![Maxing out a 200mbit pipe](/depth_images/max-out-200mbit.png)
 
-### wocka.json
+### depth maps
 
 ![Maxing out a 200mbit pipe](/depth_images/max-out-200mbit.png)
 
