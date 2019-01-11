@@ -12,7 +12,7 @@ Currently the dataset contains 6000 [infrared images](infrared_images), [visible
 ------------------------------------------
 infrared images         | 6000 | 7.40M
 visible light images    | 6000 |  396K
-ground-truth depth maps | 6000 | 1.11M
+raw depth maps          | 6000 | 1.11M
 ------------------------------------------
 ```
 
