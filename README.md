@@ -23,9 +23,11 @@ We crop the infrared images, visible light images and depth maps to the resoluti
 
 ## Example
 
-### infrared images
+### infrared images 
 
 ![infrared_image](/example/infrared_image.png)
+
+See more [examples](examples)
 
 ### visible light images
 
