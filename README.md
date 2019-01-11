@@ -35,6 +35,25 @@ We crop the infrared images, visible light images and depth maps to the resoluti
 ![depth_map](/example/depth_map.png)
 
 
+### Usage:
+
+Start with importing `data()`:
+```python
+from pydataset import data
+```
+- To load a dataset:
+```python
+titanic = data('titanic')
+```
+- To display the documentation of a dataset:
+```python
+data('titanic', show_doc=True)
+```
+- To see the available datasets:
+```python
+data()
+```
+
 ## License
 I provide this dataset for research purposes and make no ownership claim on any part of it. The question of copyright in the case of jokes is unclear and I recommend not using the dataset commercially.
 
