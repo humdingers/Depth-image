@@ -24,7 +24,7 @@ We crop the infrared images, visible light images and depth maps to the resoluti
 
 ### infrared images
 
-![infrared_image](/example/infrared_image.png)
+![infrared_image](/example/max-out-200mbit.png)
 
 ### visible light images
 
